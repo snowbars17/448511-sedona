@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Андрей](https://up.htmlacademy.ru/adaptive/15/user/448511).
-* Наставник: [Иван 😎 Кузьмичёв](https://htmlacademy.ru/profile/id342395).
+* Наставник: [Иван Кузьмичёв](https://htmlacademy.ru/profile/id342395).
 
 ---
 
